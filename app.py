@@ -14,7 +14,7 @@ models and data analysis into web apps and dashboards using streamlit.
 
 i’m interested in the discussions surrounding free will and moral responsibility,
 i mostly lean towards the impossibility of basic desert moral responsibility, 
-supported by Galen Strawson’s basic argument. i also like Derk Perebooms hard incompatibilist
+supported by Galen Strawson’s infinite regress argument. i also like Derk Perebooms hard incompatibilist
 position, especially his manipulation arguments.
 
 i’m an anti realist on all sorts of things, including personal identity, gender, morality etc. 
@@ -24,12 +24,6 @@ experience can arise from physical matter.
 """)
 
 st.subheader("my socials",divider = "gray")
-
-# st.image("https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png", width = 30)
-# st.link_button("GitHub",'https://github.com/wintersky44')
-
-# st.image("https://images.squarespace-cdn.com/content/v1/54a5505fe4b0d132f64e0e9b/1591957981477-VQJU5KFVSWHKCK5NIBLJ/Pinterest-Logo-1x1.png", width = 30)
-# st.link_button("Pinterest","https://pin.it/4TyXAUw84")
 
 col1, col2, col3, col4, col5, col6 = st.columns(6) 
 
