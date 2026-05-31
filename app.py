@@ -17,7 +17,7 @@ i mostly lean towards the impossibility of basic desert moral responsibility,
 supported by Galen Strawson’s infinite regress argument. i also like Derk Perebooms hard incompatibilist
 position, especially his manipulation arguments.
 
-i’m an anti realist on all sorts of things, including personal identity, gender, morality etc. 
+i’m an anti realist on all sorts of things, including personal identity, gender, morality, objective truth, etc. 
 i believe in the hard problem of consciousness, i.e, the question of how a first person, subjective 
 experience can arise from physical matter.
 
