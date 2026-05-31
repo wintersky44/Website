@@ -6,7 +6,7 @@ st.subheader("About me",divider = "gray")
 
 st.markdown("""           
 
-I’m a 22 year old from New Castle, DE. My interests include data science, ML, philosophy,
+I’m a 22 year old from New Castle, Delaware. My interests include data science, ML, philosophy,
 movies and tv shows, social media, and everything else.
 
 I’m currently working on data science projects and I like turning my 
