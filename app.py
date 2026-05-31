@@ -2,23 +2,22 @@ import streamlit as st
 
 st.title("Hi, i'm V")
 
-st.subheader("about me",divider = "gray")
+st.subheader("About me",divider = "gray")
 
 st.markdown("""           
 
-i’m a 22 year old from New Castle, DE. My interests include data science, ML, philosophy,
+I’m a 22 year old from New Castle, DE. My interests include data science, ML, philosophy,
 movies and tv shows, social media, and everything else.
 
-i’m currently working on data science projects and i like turning my 
+I’m currently working on data science projects and I like turning my 
 models and data analysis into web apps and dashboards using streamlit.
 
-i’m interested in the discussions surrounding free will and moral responsibility,
-i mostly lean towards the impossibility of basic desert moral responsibility, 
-supported by Galen Strawson’s infinite regress argument. i also like Derk Perebooms hard incompatibilist
-position, especially his manipulation arguments.
+I have spent a significant amount of my time reading about the free will and moral responsibility debates.
+My favorite a priori arguments against free will include Galen Strawsons argument of infinite regress, and Nietzsche's appeal
+to the nature of causa sui. I also like Derk Perebooms work on free will, his hard incompatibilist position, and his manipulation arguments.
 
-i’m an anti realist on all sorts of things, including personal identity, gender, morality, objective truth, etc. 
-i believe in the hard problem of consciousness, i.e, the question of how a first person, subjective 
+I’m an anti realist on all sorts of things, including personal identity, gender, morality, objective truth, etc. 
+I believe in the hard problem of consciousness, i.e, the question of how a first person, subjective 
 experience can arise from physical matter.
 
 """)
