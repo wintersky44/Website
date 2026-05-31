@@ -14,7 +14,7 @@ models and data analysis into web apps and dashboards using streamlit.
 
 I have spent a significant amount of my time reading about the free will and moral responsibility debates.
 My favorite a priori arguments against free will include Galen Strawsons argument of infinite regress, and Nietzsche's appeal
-to the nature of causa sui. I also like Derk Perebooms work on free will, his hard incompatibilist position, and his manipulation arguments.
+to the nature of causa sui. I also like Derk Perebooms work on free will-- his hard incompatibilist position and manipulation arguments.
 
 I’m an anti realist on all sorts of things, including personal identity, gender, morality, objective truth, etc. 
 I believe in the hard problem of consciousness, i.e, the question of how a first person, subjective 
