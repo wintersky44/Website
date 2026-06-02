@@ -6,18 +6,20 @@ st.subheader("About me",divider = "gray")
 
 st.markdown("""           
 
-I’m a 22 year old from New Castle, Delaware. My interests include data science, ML and deep learning, philosophy,
-movies and tv shows, and browsing social media.
+I’m a 22 year old. My interests include data science and ML, philosophy,
+movies and tv shows, reading wikipedia, and browsing social media.
+            
 
-I’m currently working on data science projects and I like turning my 
-models and data analysis into web apps and dashboards using streamlit.
+Some topics in philosophy which interest me are free will, consciousness, meta-ethics, ethics, existentialism, and metaphysics.
 
 I have spent a significant amount of my time reading about the free will and moral responsibility debates.
 My favorite a priori arguments against free will include Galen Strawson's argument of infinite regress, and Nietzsche's appeal
 to the nature of causa sui. I also like Derk Perebooms work on free will-- his hard incompatibilist position and manipulation arguments.
 
-I am also interested in the hard problem of consciousness, i.e, the question of how a first person, subjective 
+I'm interested in the hard problem of consciousness, i.e, the question of how a first person, subjective 
 experience can arise from physical matter.
+            
+I like Albert Camus' absurdist philosophy, as I believe there is no ultimate meaning to it all, but we can still live happily.
 
 """)
 
